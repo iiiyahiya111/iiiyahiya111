@@ -33,5 +33,3 @@ Python • C/C++ • Scikit-learn • OpenCV • XGBoost • Pandas • NumPy �
 ## Contact
 
 - Email: <iiiyahiya111@gmail.com>
-- GitHub: github.com/iiiyahiya111
-- LinkedIn: linkedin.com/in/abmyabid
