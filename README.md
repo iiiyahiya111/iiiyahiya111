@@ -1,70 +1,32 @@
-<h1 align="center">Yahiya</h1>
+<h2 align="center">Yahiya</h2>
 
 <p align="center">
-ICE Undergraduate at Pabna University of Science and Technology (PUST)
-</p>
-
-<p align="center">
-Interested in Machine Learning, Computer Vision, and AI Research
+ICE Undergraduate • Machine Learning & Computer Vision
 </p>
 
 ---
 
-## About Me
+Currently interested in Machine Learning, Computer Vision, and
+research-oriented problem solving.
 
-Information and Communication Engineering undergraduate focused on
-Machine Learning, Computer Vision, and AI-driven problem solving.
-
-Currently exploring Deep Learning models, applied AI techniques,
-and research-oriented learning.
+Exploring Deep Learning models and applied AI techniques through
+hands-on projects and self-directed learning.
 
 ---
 
-## Research Interests
+## Projects
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Image Processing
-- Explainable AI
-- AI for Agriculture
-
----
-
-## Tech Stack
-
-### Languages
-Python • C/C++ • Java
-
-### ML & Computer Vision
-Scikit-learn • XGBoost • LightGBM • OpenCV • Pandas • NumPy
-
-### Tools
-Git • GitHub • Linux • VS Code • MATLAB
-
----
-
-## Featured Projects
-
-### ML-Based Crop Recommendation System
-- Developed a multi-class crop recommendation model using ensemble learning
-- Applied Stratified K-Fold Cross Validation
-- Used SHAP for explainable AI and model interpretability
+### Crop Recommendation System
+Machine learning-based crop recommendation project using ensemble models and explainable AI techniques.
 
 ### Real-Time Multi-Face Recognition System
-- Built a real-time face recognition system using OpenCV
-- Worked with webcam input and self-collected datasets
-- Designed for future attendance automation extension
+OpenCV-based real-time face recognition system using webcam input and custom datasets.
 
 ---
 
-## Current Focus
+## Working With
 
-- Deep Learning Fundamentals
-- Exploring ML/DL Models
-- Applied Computer Vision
-- Research Learning
-- Problem Solving
+Python • C/C++ • Scikit-learn • OpenCV • XGBoost • Pandas • NumPy • Git
 
 ---
 
