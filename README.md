@@ -52,7 +52,7 @@ OpenCV-based real-time face recognition system using webcam input and custom dat
 
 📧 Email: [iiiyahiya111@gmail.com](mailto:iiiyahiya111@gmail.com)
 
-💼 LinkedIn: [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/abmyabid)
+💼 LinkedIn: [linkedin.com/in/abmyabid](https://linkedin.com/in/abmyabid)
 
 ---
 
